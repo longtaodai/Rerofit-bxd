@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:color="@color/content_textcolor_lighter"/>
+    <!-- pressed -->
+    <item android:state_focused="true"
+        android:color="@color/content_textcolor_lighter"/>
+    <!-- focused -->
+    <item android:state_checked="true"
+        android:color="@color/content_textcolor_lighter"/>
+    <!-- checked -->
+
+    <item android:color="@color/content_textcolor_light_more"/>
+    <!-- default 此为默认的，一定要有-->
+</selector>

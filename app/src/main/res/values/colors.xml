@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="main_gray_bg">#f5f0f5</color>
+    <!--暂时使用-->
+    <color name="main_color_yellow">#f39346</color>
+    <color name="main_color">#2d115b</color>
+    <color name="main_background_color">#493071</color>
+    <color name="homepage_bottom_text_color_checked">#fec110</color>
+    <color name="homepage_bottom_text_color_usual">#ffffffff</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="light_gray">#d4d4d4</color>
+    <color name="image_background">#e0e0e0</color>
+    <color name="dark_gray">#666666</color>
+    <color name="dark_black">#2c2c2c</color>
+    <color name="light_black">#8b8b8b</color>
+    <color name="title_textcolor">#333333</color>
+    <color name="content_textcolor">#333333</color>
+    <color name="content_textcolor_light">#4c4c4c</color>
+    <color name="content_textcolor_lighter">#666666</color>
+    <color name="content_textcolor_light_more">#878e94</color>
+    <color name="content_textcolor_light_red">#f93839</color>
+    <color name="hint_color">#d7d7d7</color>
+
+    <color name="tip_textcolor">#969696</color>
+    <color name="textcolor_light_green">#ff00ffff</color>
+    <color name="none">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="pink">#ff3b3b</color>
+    <color name="peachred">#fa3839</color>
+    <color name="white_bg_click_color">#939393</color>
+    <color name="translucence">#88c1c1c1</color>
+
+    <color name="pop_common_bg">#88000000</color>
+    <!--popupwnd-->
+    <color name="layoutbackground_click">#f3f3f3</color>
+    <color name="layoutbackground">#ffffff</color>
+    <color name="layout_border_color">#cccccc</color>
+    <color name="common_line">#eeeeee</color>
+
+    <color name="common_background_color">#303440</color>
+    <!-- AppMsg End -->
+    <color name="color_accent">#7c4dff</color>
+    <color name="color_success">#3CCD88</color>
+    <color name="color_error">#f44336</color>
+    <color name="rich_editor_bg">#05601a</color>
+
+    <color name="indicator_color">#fdd807</color>
+    <color name="color_gallary_txt_unselect">#8a8a8a</color>
+    <color name="dark_background_color">#ececec</color>
+
+    <color name="common_btn">#ff534cb5</color>
+    <color name="common_btn_gradient_begin">#45c01a</color>
+    <color name="common_btn_gradient_end">#5da937</color>
+    <color name="common_btn_click">#4f3e97</color>
+    <color name="common_btn_click_gradient_begin">#3e870b</color>
+    <color name="common_btn_click_gradient_end">#35730a</color>
+    <color name="common_btn_enable">#6fba4a</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+
+    <color name="avatar_border_color">#d50039</color>
+    <color name="lv_bg">#5acbe4</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="no_bg">#00ffffff</color>
+    <!--搜索的下拉菜单-->
+
+    <color name="common_yellow_color">#f9a90c</color>
+    <color name="common_yellow_color_more">#f1a104</color>
+
+    <color name="drop_down_selected">#f93839</color>
+    <color name="drop_down_unselected">#666666</color>
+
+    <color name="mask_color">#88bbbbbb</color>
+    <color name="check_bg">#f2f2f2</color>
+    <color name="un_press_color">#9C27B0</color>
+
+    <!--重新开始设计之后的颜色定义-->
+    <color name="common_btn_color">#ff3b3b</color>
+    <color name="common_btn_color_pressed">#fa2525</color>
+    <color name="common_btn_color_enable">#999999</color>
+
+    <color name="text_color_dark">#232326</color>
+    <color name="divider_color">#eeeeee</color>
+
+    <color name="navpage">#FFE1E8EB</color>
+
+    <!--下拉刷新-->
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+</resources>
